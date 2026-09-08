@@ -37,7 +37,7 @@
     display: none;
 }
 .hero{
-    background-image: url(../images/background/background6.jpg);
+    background-image: url('images/background/background6.jpg')
     width: 90%;
     height: 1000px;
     background-size: cover;
@@ -229,7 +229,7 @@ h3{
     margin: 0px 10px 0px 16px;
 }
 .img-5{
-    background-image: url('../images/illustration/pic5.png');
+    background-image: url('images/illustration/pic5.png')
     width: 90%;
     height: 99px;
     background-size: contain;
